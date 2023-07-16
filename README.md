@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Desktop Manager for cdns
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was an idea i had mainly for personal use. I wanted to bookmark cdns in order to have them saved in one place.
+I didn't add the bookmarking functionality in this react version yet.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `electron dev`
+
+Starts the electron App
 
 ### `npm start`
 
